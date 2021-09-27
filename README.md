@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @CWilson123
-- I'm a senior undergarduate computer science student at The University of Florida
+- I'm a Senior Undergarduate Computer Science Student at The University of Florida
