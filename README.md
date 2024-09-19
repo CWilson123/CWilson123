@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CWilson123
 - I'm a Computer Science Graduate (The University of Florida)
-- I'm currently involved in my first position as a Salesforce Developer
+- I'm currently employed as a full stack developer
 - I'm also invloved in numerous personal projects
 - Reach out to me! I'm always looking for new opportunities and new challenges!
